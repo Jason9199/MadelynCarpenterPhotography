@@ -1,0 +1,22 @@
+{
+  "name": "madelynsphotography",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jason9199/MadelynsPhotography"
+  },
+  "author": "Jason Carpenter",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Jason9199/MadelynsPhotography/issues"
+  },
+  "homepage": "http://madelynsphotography.com",
+  "dependencies": {
+    "searchkit": "^0.7.0"
+  }
+}
