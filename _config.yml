@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - HOME: "/index.html"
+  - HOME: "/"
   - GALLERY: "/gallery/index.html"  
   - JOURNAL: "/journal/index.html"
   - ABOUT: "/about/index.html"
