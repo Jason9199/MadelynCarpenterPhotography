@@ -33,10 +33,10 @@ comments :
 
 # Internal nav
 nav:
-  - HOME: "./index.html"
-  - GALLERY: "./gallery/index.html"  
-  - JOURNAL: "./journal/index.html"
-  - ABOUT: "./about/index.html"
+  - HOME: "/index.html"
+  - GALLERY: "/gallery/index.html"  
+  - JOURNAL: "/journal/index.html"
+  - ABOUT: "/about/index.html"
 
 # All translation keys
 translations:
