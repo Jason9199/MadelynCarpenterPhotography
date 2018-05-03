@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Jason9199/MadelynsPhotography/issues"
   },
-  "homepage": "http://madelynsphotography.com",
+  "homepage": "https://madelynsphotography.com",
   "dependencies": {
     "searchkit": "^0.7.0"
   }
