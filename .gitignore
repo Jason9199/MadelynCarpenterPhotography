@@ -1,4 +1,7 @@
 _site
+_includes
+_layouts
+_posts
 node_modules
 .vscode
 .DS_Store
